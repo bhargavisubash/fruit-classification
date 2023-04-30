@@ -13,6 +13,6 @@ We have used 75% of the dataset for training the model and 25% of the dataset fo
 
 ### The **Algorithms** used here are ###
 #### 1. KNN or K-Nearest Neighbors Algorithm. ####
- When this algorithm was applied on the dataset the accuracy produced by the model was approximately around 85 (when k=1 and k=9) %
+ When this algorithm was applied on the dataset the accuracy produced by the model was approximately around 85% (when k is betwenn 1 to 9)
 #### 2. SVM or Support Vector Machine ####
 When this algorithm was applied on the dataset the accuracy produced by the model was 100%
